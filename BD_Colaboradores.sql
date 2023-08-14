@@ -1,0 +1,1 @@
+SELECT * FROM base_de_dados.colaboradores;
